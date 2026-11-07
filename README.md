@@ -19,7 +19,7 @@ PS1="> "
 Initialize the project and add the essential dependencies (this will set up your environment and install the required packages):
 ```bash
 uv init
-uv add python-dotenv jupyter openai
+uv add python-dotenv jupyter openai anthropic
 ```
 
 ## VS Code Local Configuration
